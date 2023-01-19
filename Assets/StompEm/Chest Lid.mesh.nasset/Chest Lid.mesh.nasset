@@ -104,5 +104,11 @@
         "scene": "97ba2ace-ef75-1751-540a-4a332ee6673e"
     },
     "thumbnailGuid": "6592f836-39be-bc66-b30d-6001d7de9f93",
-    "data_components": []
+    "data_components": [],
+    "dependencies": [
+        "632ed465-d3d7-e6fe-a042-20d344f94c11",
+        "a935cef5-f4b0-c285-9598-c8ccc6b3676a",
+        "c6287231-ee30-e4e2-2920-785c13bd122e",
+        "a96959e2-2330-8a34-01c7-f358e5be822a"
+    ]
 }

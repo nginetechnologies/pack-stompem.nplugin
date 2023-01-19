@@ -66,5 +66,9 @@
         "scene": "a0581e58-5f58-7ac8-7ce0-aac9e2a1b998"
     },
     "thumbnailGuid": "6d636c6f-43a7-49eb-3c6e-9e1f1ca1322e",
-    "data_components": []
+    "data_components": [],
+    "dependencies": [
+        "98b98fcc-8d51-6666-373b-eece44f28400",
+        "44f98e4d-0d95-7e09-cda4-7f55ce9c0056"
+    ]
 }

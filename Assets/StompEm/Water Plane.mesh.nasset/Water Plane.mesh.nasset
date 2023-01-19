@@ -7,7 +7,7 @@
     },
     "children": [
         {
-            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "85ae27ea-6a45-47ab-19ad-1494d0047896",
             "e875b43b-d558-405c-a957-39c5d0f00ab2": {
                 "overriddenMass": 0.0
@@ -22,14 +22,13 @@
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "New Restart Game Area"
                 },
-				{
-					"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-					"type": 0,
-					"layer": 3,
-					"body_flags": 1,
-					"maximumAngularVelocity": 2700.0
-				}
-
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1,
+                    "maximumAngularVelocity": 2700.0
+                }
             ],
             "children": [
                 {
@@ -161,5 +160,9 @@
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
-    "data_components": []
+    "data_components": [],
+    "dependencies": [
+        "ec024d90-4a25-84e7-85ce-c8481010e583",
+        "d28b9790-7165-f97a-e2e2-cc121c0d3403"
+    ]
 }

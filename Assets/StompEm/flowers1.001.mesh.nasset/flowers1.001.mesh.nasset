@@ -180,5 +180,15 @@
         "scene": "4fed91b7-d492-4780-1239-5aa05692ff2c"
     },
     "thumbnailGuid": "04da9ed9-131f-e6ca-ab59-0fe46a6f2259",
-    "data_components": []
+    "data_components": [],
+    "dependencies": [
+        "59b43685-d60a-ab56-461b-a619ec1f2326",
+        "5109c62b-7edb-f59e-58e4-7b8a713b444b",
+        "41a4f0ff-2bff-37c3-42ee-296df5e9052b",
+        "c995dbbe-e9f2-cf06-0dda-559edd20e969",
+        "43af833b-83c0-0948-359c-305a5b57069a",
+        "72147c08-3f4d-d41a-0bed-e99870324f5c",
+        "29ce810e-6180-85dc-eb18-249e68fbc0dd",
+        "a96959e2-2330-8a34-01c7-f358e5be822a"
+    ]
 }

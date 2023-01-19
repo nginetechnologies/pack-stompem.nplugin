@@ -142,5 +142,13 @@
         "scene": "83f3f376-cd02-0917-bf28-22be5309dfa6"
     },
     "thumbnailGuid": "e9edbb31-5ecd-26e5-da7d-2439844aacdf",
-    "data_components": []
+    "data_components": [],
+    "dependencies": [
+        "f736ee26-43b8-95d6-22af-88ae3aa8693a",
+        "db71b29f-61e7-f2e5-887e-c4236dc804af",
+        "1487f105-44fa-5fd8-15f5-dcc9c5d38ce4",
+        "a935cef5-f4b0-c285-9598-c8ccc6b3676a",
+        "5e455331-f7b1-dd43-a537-23de64ed84db",
+        "c995dbbe-e9f2-cf06-0dda-559edd20e969"
+    ]
 }

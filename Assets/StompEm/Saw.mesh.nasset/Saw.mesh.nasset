@@ -7,7 +7,7 @@
     },
     "children": [
         {
-            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "f828cfb3-2ab9-cb5c-a860-90b0c453d2f8",
             "e875b43b-d558-405c-a957-39c5d0f00ab2": {
                 "overriddenMass": 0.0
@@ -22,14 +22,13 @@
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "New Restart Game Area"
                 },
-				{
-					"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-					"type": 0,
-					"layer": 3,
-					"body_flags": 1,
-					"maximumAngularVelocity": 2700.0
-				}
-
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1,
+                    "maximumAngularVelocity": 2700.0
+                }
             ],
             "children": [
                 {
@@ -55,9 +54,9 @@
             "instanceGuid": "e18c2a3d-5542-1f95-e485-acc5313c0b6a",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "rotation": [
-                    179.1876,
-                    5.7765,
-                    -176.8367
+                    179.1875,
+                    5.7764,
+                    -176.8366
                 ]
             },
             "e875b43b-d558-405c-a957-39c5d0f00ab2": {
@@ -168,12 +167,18 @@
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
-    "data_components": [{
-		"typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
-		"rotation": [
-			1.0,
-			0.0,
-			360.0
-		]
-	}]
+    "data_components": [
+        {
+            "typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
+            "rotation": [
+                1.0,
+                0.0,
+                360.0
+            ]
+        }
+    ],
+    "dependencies": [
+        "4fa99a37-6381-c1d9-3fe8-018d607e126a",
+        "a96959e2-2330-8a34-01c7-f358e5be822a"
+    ]
 }
