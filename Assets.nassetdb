@@ -1314,6 +1314,11 @@
             "5109c62b-7edb-f59e-58e4-7b8a713b444b"
         ]
     },
+    "8e20f14e-a5f8-8548-1bbe-9aae10bc312c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Stomp_Thumb.tex.nasset"
+    },
     "8ebcffbd-e190-c564-e3e7-ecc1467b390a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2282,5 +2287,5 @@
             "44f98e4d-0d95-7e09-cda4-7f55ce9c0056"
         ]
     },
-    "guid": "d0b93136-dc06-82b8-5747-f4c124968843"
+    "guid": "2fa98168-8c92-3c3d-6281-61cc72ed4e96"
 }
