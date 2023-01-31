@@ -4555,6 +4555,19 @@
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "a0581e58-5f58-7ac8-7ce0-aac9e2a1b998"
             }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "72d3c011-5473-0071-2c53-83385ab15e21",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Water Plane"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2dd09355-9716-8f3a-0b43-798076405619"
+            }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
