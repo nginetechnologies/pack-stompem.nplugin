@@ -86,7 +86,7 @@
     },
     "07ce1f8a-6033-ce9c-f18a-dbee8cc4530d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Flowers_Low_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Flowers_Low_Thumb.tex.nasset"
     },
     "0b8ad4e2-dbf6-5328-782a-f93765cb18d9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -105,7 +105,7 @@
     },
     "0d9fb5c4-0195-78a8-e9b8-6bfabe7fbbf9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Large_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Large_Thumb.tex.nasset"
     },
     "0e02c4c3-1a82-0a4b-8ffa-de19d299a7f9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -175,7 +175,7 @@
     },
     "1424ad32-902d-799b-172c-15d371c91ed2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Cliff_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Cliff_Thumb.tex.nasset"
     },
     "1487f105-44fa-5fd8-15f5-dcc9c5d38ce4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -275,7 +275,7 @@
     },
     "21d6e339-125a-69c3-aff0-28e9fc0ba353": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Moving_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Moving_Thumb.tex.nasset"
     },
     "21eee7a0-a43b-5af4-4a37-b19e661ec05d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -313,7 +313,7 @@
     },
     "264496a0-c4db-18f2-6586-d51b8775cbe7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Snow_Slope_Half_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Snow_Slope_Half_Thumb.tex.nasset"
     },
     "27a4f219-6095-1c77-cc47-d047b3e08918": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -400,7 +400,7 @@
     },
     "2bc3004d-cff7-a47e-6bf8-d5fbc6b656fe": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Fence_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Fence_Thumb.tex.nasset"
     },
     "2ccd05b6-5677-6fb1-dd0d-7f31a9fdd5f2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -431,7 +431,7 @@
     },
     "2f1b8447-951f-121f-5902-c8503046f0be": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Heart_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Heart_Thumb.tex.nasset"
     },
     "3011598e-8296-5c93-c6b1-fef72f61fe04": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -461,7 +461,7 @@
     },
     "3021834a-78aa-888c-8019-7c47cf77d22a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Coin_Bronze_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Coin_Bronze_Thumb.tex.nasset"
     },
     "30469eee-3a1b-5601-c50a-67807df13515": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -499,7 +499,7 @@
     },
     "377f417c-5637-0b72-48a4-4db963567a2a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Lever_Base_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Lever_Base_Thumb.tex.nasset"
     },
     "37a70f36-aff7-2002-b75b-38e5eb042116": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -533,7 +533,7 @@
     },
     "3945aeee-c61e-2c26-8489-3ccdb2c9e072": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Barrel_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Barrel_Thumb.tex.nasset"
     },
     "3a8ccb81-7665-2360-ecfa-ab97eca7fe74": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -548,7 +548,7 @@
     },
     "3bc61a14-adf1-34b5-15a6-70d17eb13089": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Fence_Corner_Curved_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Fence_Corner_Curved_Thumb.tex.nasset"
     },
     "3c71e108-4430-0da0-3756-c9351fa7d607": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -567,7 +567,11 @@
     },
     "3d0a4f4c-155b-fb25-fab6-9cce2ea75043": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Hexagon_Low_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Hexagon_Low_Thumb.tex.nasset"
+    },
+    "3d5c353f-fc00-a5cc-59c4-662804618393": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Audio/ambient.audio.nasset"
     },
     "3ddf1e9d-72a2-2a71-db93-a00d961d7e39": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -586,7 +590,7 @@
     },
     "3f781a90-3436-2487-a1e2-57a47995893c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Snow_Hexagon_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Snow_Hexagon_Thumb.tex.nasset"
     },
     "409de468-0ed6-79ca-9af1-bbe3cd361e83": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -618,7 +622,7 @@
     },
     "4261f6fb-e689-54fb-e179-6bd0a366ba34": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Half_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Half_Thumb.tex.nasset"
     },
     "43af833b-83c0-0948-359c-305a5b57069a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -708,7 +712,7 @@
     },
     "484cd246-9fd4-a853-6416-5189b55e1f30": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Plant_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Plant_Thumb.tex.nasset"
     },
     "48cc7281-09c9-f4ae-2018-5cf1845aaef0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -745,7 +749,7 @@
     },
     "4ad70ecc-3fc0-7806-f7a5-7d7c2d4a2699": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Tree_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Tree_Thumb.tex.nasset"
     },
     "4c097685-425e-ea3c-1be1-f8ce366c20aa": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -828,7 +832,7 @@
     },
     "4ff65a5a-a8fb-186e-0c8e-fb4322f3bebf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Saw_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Saw_Thumb.tex.nasset"
     },
     "50fc8d49-9905-15c3-0652-f3e1904d6357": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -855,7 +859,7 @@
     },
     "52de2e80-d29f-12e6-ced6-0f16e7afc4e9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Hexagon_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Hexagon_Thumb.tex.nasset"
     },
     "5339f3c4-29a5-9685-17af-a3827e6226fe": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -922,11 +926,11 @@
     },
     "55540e2a-e442-7ccc-5834-78a298fe3097": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Snow_Large_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Snow_Large_Thumb.tex.nasset"
     },
     "58714781-0c8e-9a91-082e-f6d8d9a4af81": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Snow_Slope_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Snow_Slope_Thumb.tex.nasset"
     },
     "59b43685-d60a-ab56-461b-a619ec1f2326": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -991,7 +995,7 @@
     },
     "5cb34783-1778-8e48-a6f5-1c0aff810d39": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Chest_Base_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Chest_Base_Thumb.tex.nasset"
     },
     "5ce342dc-7f06-e7d0-ccf9-655d5064c037": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1006,7 +1010,7 @@
     },
     "5d18fdb1-2cfb-482b-70bc-72a927e6feea": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Bridge_Half_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Bridge_Half_Thumb.tex.nasset"
     },
     "5e455331-f7b1-dd43-a537-23de64ed84db": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1084,7 +1088,7 @@
     },
     "63f81f6a-47a9-0c40-776b-1c145e8589ca": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Tree_Snow_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Tree_Snow_Thumb.tex.nasset"
     },
     "653df59f-66d3-ae29-3415-6cb362771689": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1118,7 +1122,7 @@
     },
     "69764208-7021-dc11-f664-c7bb87c3c939": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Bridge_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Bridge_Thumb.tex.nasset"
     },
     "6a559d18-9b57-f379-4e49-14869fe6b8e7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1148,7 +1152,7 @@
     },
     "6eef284d-b7c7-11f1-637c-22b313edbdf0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Spikes_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Spikes_Thumb.tex.nasset"
     },
     "6f1f3cb5-b4f0-7fc7-5716-cbf59e15d817": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1325,7 +1329,7 @@
     },
     "81c70305-dc9e-94d4-d540-e5cbc8aa80bc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Large_Plain_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Large_Plain_Thumb.tex.nasset"
     },
     "829140fe-5bbf-29c0-1fe5-f8142fc9ba8f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1383,7 +1387,7 @@
     },
     "8b1c6ad9-d418-22ec-1bb6-9939937e17ed": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Spikes_Large_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Spikes_Large_Thumb.tex.nasset"
     },
     "8ba27e32-4b47-7a6e-c882-a08d0942870e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1429,7 +1433,7 @@
     },
     "8e5082e8-7ed6-a0cd-87b3-6063bb60e1c6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Rocks_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Rocks_Thumb.tex.nasset"
     },
     "8ebcffbd-e190-c564-e3e7-ecc1467b390a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1480,7 +1484,7 @@
     },
     "909ad6eb-a2b2-104e-81da-6a7e675198a4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Coin_Gold_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Coin_Gold_Thumb.tex.nasset"
     },
     "926d2b5b-cbb3-6cb2-33e2-e1bb321443a7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1495,7 +1499,7 @@
     },
     "928a4013-3016-75a5-c37f-e3c8cbcbec54": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Level_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Level_Thumb.tex.nasset"
     },
     "9325ba49-a880-ffa7-e58d-b69ac48b3cc9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1625,7 +1629,7 @@
     },
     "a0f89bb4-4e54-0496-55bb-c6c9e1524e20": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Crate_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Crate_Thumb.tex.nasset"
     },
     "a137ae96-a1d1-7a5e-7fd3-9b3ffe8e1dc9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1710,7 +1714,7 @@
     },
     "a80895d8-f4e8-051a-b324-1cb9411ac882": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Fence_Low_Corner_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Fence_Low_Corner_Thumb.tex.nasset"
     },
     "a935cef5-f4b0-c285-9598-c8ccc6b3676a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1850,7 +1854,7 @@
     },
     "b540b77c-1fd3-c56c-a02f-4411a1143322": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Hedge_Corner_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Hedge_Corner_Thumb.tex.nasset"
     },
     "b6d17082-1afa-f2cd-86f1-ca31dfe9ec93": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1923,11 +1927,11 @@
     },
     "baff6904-ec9f-51a5-2b83-d74f98c94fa5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Flag_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Flag_Thumb.tex.nasset"
     },
     "bb540520-1e42-5b50-d092-c7f46dd04965": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Mushrooms_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Mushrooms_Thumb.tex.nasset"
     },
     "bb842243-c9bb-ce5e-c29f-5de0ff1f1f94": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1973,7 +1977,7 @@
     },
     "bfe0d928-899c-c2d6-6390-20ef6fd20ffc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Crate_Strong_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Crate_Strong_Thumb.tex.nasset"
     },
     "c26126d5-91b9-84f4-645e-0d449fface88": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2047,7 +2051,7 @@
     },
     "c8c2fa1f-6561-74a2-f7c9-9baa80fab1ad": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Door_Closed_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Door_Closed_Thumb.tex.nasset"
     },
     "c8d96547-b2a7-c9b7-6338-cc713093d571": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2112,11 +2116,11 @@
     },
     "cdf37ea4-8424-e647-ee4e-baa53c51721c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Cliff_Corner_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Cliff_Corner_Thumb.tex.nasset"
     },
     "cf8fdae8-1335-004c-88d3-c86880b8c630": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Curve_Low_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Curve_Low_Thumb.tex.nasset"
     },
     "d16caf52-e37b-d96e-d2a7-ff3b9424ec7e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2207,7 +2211,7 @@
     },
     "daf0f09a-9543-6983-1577-a4fad9cea984": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Key_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Key_Thumb.tex.nasset"
     },
     "db4ed462-95b7-6e51-06dc-7db33c86d0d7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2270,7 +2274,7 @@
     },
     "e348cdff-ccc4-023b-0e05-8cc766b74dc5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Slope_Half_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Slope_Half_Thumb.tex.nasset"
     },
     "e40d8cda-4baa-a2dd-0713-de7fe53c6e73": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2278,7 +2282,7 @@
     },
     "e4216cf8-694e-0d77-bc92-1d80970b42cd": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Arrows_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Arrows_Thumb.tex.nasset"
     },
     "e9edbb31-5ecd-26e5-da7d-2439844aacdf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2312,7 +2316,7 @@
     },
     "ebc07a7c-5d45-7117-87d8-c8cf26d2ebc6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Block_Snow_Hexagon_Low_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Block_Snow_Hexagon_Low_Thumb.tex.nasset"
     },
     "ec024d90-4a25-84e7-85ce-c8481010e583": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2368,11 +2372,11 @@
     },
     "f1d4bd4d-75ea-9862-7007-3ccd6d0ce826": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Bridge_Ramp_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Bridge_Ramp_Thumb.tex.nasset"
     },
     "f2fe5efd-f617-d21f-bc6e-205ed5383c87": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Arrow_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Arrow_Thumb.tex.nasset"
     },
     "f3ff84f2-4d0b-8948-594e-6eea87cfb642": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2391,7 +2395,7 @@
     },
     "f69757ad-3906-7508-9cb4-9e8da15c903e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Sign_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Sign_Thumb.tex.nasset"
     },
     "f730ad41-945e-be1d-441b-299c0763eb4e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2426,7 +2430,7 @@
     },
     "f8188887-bf92-e94d-3788-5734ae50e9a4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/StompEm/Thumbnails/Ladder_Thumb.tex.nasset"
+        "path": "Assets/Source/Thumbnails/Ladder_Thumb.tex.nasset"
     },
     "f9ff4cb1-ff66-4457-d174-44016dd963d5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2475,5 +2479,5 @@
             "44f98e4d-0d95-7e09-cda4-7f55ce9c0056"
         ]
     },
-    "guid": "2fa98168-8c92-3c3d-6281-61cc72ed4e96"
+    "guid": "ae006cbf-9730-2aa5-9821-92d7d9388642"
 }
