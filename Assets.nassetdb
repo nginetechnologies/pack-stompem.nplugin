@@ -1591,6 +1591,17 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/StompEm/Saw.mesh.nasset/Thumbnails/Saw.mesh.nasset.tex.nasset"
     },
+    "a6849e8c-fa63-414e-bd2c-2cbcaca264a4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Mechanics/Collectible Heart.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
+        "dependencies": [
+            "1006180b-93ff-b929-e037-24552f225e2b"
+        ]
+    },
     "a6bfdaf7-cb6b-7200-f4e8-a8962abe6ab2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
