@@ -885,6 +885,17 @@
             "a96959e2-2330-8a34-01c7-f358e5be822a"
         ]
     },
+    "566de671-d5c0-4830-bad6-731c0c25baaa": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Mechanics/Danger Spikes.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
+        "dependencies": [
+            "f7b58e89-67b0-5016-aaac-ebe4430622eb"
+        ]
+    },
     "59b43685-d60a-ab56-461b-a619ec1f2326": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
