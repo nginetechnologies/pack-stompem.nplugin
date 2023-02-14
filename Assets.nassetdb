@@ -2165,6 +2165,17 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/StompEm/Block Cliff Corner.mesh.nasset/Thumbnails/Block Cliff Corner.mesh.nasset.tex.nasset"
     },
+    "e85aff2e-91de-41c0-82c0-65ef0d6b4da9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Mechanics/Danger Saw.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
+        "dependencies": [
+            "9480cdf3-7f6c-7850-01a7-2a9097b48f00"
+        ]
+    },
     "e9edbb31-5ecd-26e5-da7d-2439844aacdf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/StompEm/Fence.mesh.nasset/Thumbnails/Fence.mesh.nasset.tex.nasset"
