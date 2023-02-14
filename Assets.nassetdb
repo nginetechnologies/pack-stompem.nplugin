@@ -979,6 +979,17 @@
             "c995dbbe-e9f2-cf06-0dda-559edd20e969"
         ]
     },
+    "5ef1bfaa-d8df-4935-994f-df33692ed732": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Mechanics/Finish Flag.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
+        "dependencies": [
+            "2b07c9cb-8518-684f-6341-6fa9e7dd3dbe"
+        ]
+    },
     "5f14b399-4ce2-e0de-5bdf-673c8b018578": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/StompEm/Crate Metal.mesh.nasset/Thumbnails/Crate Metal.mesh.nasset.tex.nasset"
