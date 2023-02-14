@@ -1,0 +1,93 @@
+{
+    "guid": "139f981c-82ce-4a87-9d82-bef5f0d6040a",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "67d32b10-c9dc-425d-bd90-bd334e7f9fc9",
+    "dependencies": [
+        "7cf226ad-c279-d6cc-4173-092c72934765"
+    ],
+    "tags": [
+        "c642f003-618a-45dc-a031-b16f61473103"
+    ],
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Collectible Key"
+        },
+        {
+            "typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
+            "rotation": [
+                180.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
+            "instanceGuid": "1e6afc7e-966a-4965-a67a-5c087cbbf1d3",
+            "e875b43b-d558-405c-a957-39c5d0f00ab2": {
+                "overriddenMass": 0.0
+            },
+            "183d677a-b427-4b1d-a276-97b3e6681304": {
+                "mask": [
+                    "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                ]
+            },
+            "97f5d985-8b59-4864-82d8-0856b85b8c68": {
+                "scoreReward": 0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Collectible Component"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1,
+                    "maximumAngularVelocity": 2700.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "29906e2b-8877-49f2-8d0c-d7bfe675bdbe",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Key"
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "7cf226ad-c279-d6cc-4173-092c72934765"
+                    },
+                    "children": [
+                        {
+                            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                            "instanceGuid": "544bbd45-d636-4d64-a9ea-8675fdeacf6f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Key Physics Body"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "4da75005-f155-72c5-dbb9-1f37765ccb65"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "disabled": true
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "139f981c-82ce-4a87-9d82-bef5f0d6040a"
+    }
+}
