@@ -158,6 +158,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/Collectible Key.scene.nasset",
+        "thumbnail": "4552a5db-51f6-3307-6cf0-fc0d33a42173",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -346,6 +347,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/Collectible Coin Gold.scene.nasset",
+        "thumbnail": "96a37510-8c3e-2c4c-1d92-9280d59a48ec",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -494,6 +496,10 @@
     "37a70f36-aff7-2002-b75b-38e5eb042116": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/StompEm/Block Slope Half.mesh.nasset/Thumbnails/Block Slope Half.mesh.nasset.tex.nasset"
+    },
+    "37ba36a6-2082-2062-6cec-3a8e410a50cf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Thumbnails/Water_Thumb.tex.nasset"
     },
     "38761d7b-4706-b97c-7d00-80ab68adb8e5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -684,6 +690,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/Collectible Coin Bronze.scene.nasset",
+        "thumbnail": "ec93db47-201e-4d50-0009-ff550413234e",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -893,6 +900,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/Danger Spikes.scene.nasset",
+        "thumbnail": "16929614-769f-1015-c783-d211396a65fe",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -987,6 +995,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/Finish Flag.scene.nasset",
+        "thumbnail": "b9d7308e-d1aa-ce16-059c-7a7f873f659b",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -1546,6 +1555,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/Dynamics Barrel.scene.nasset",
+        "thumbnail": "8478c899-8d01-7b80-dd87-b85f5c866153",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -1643,6 +1653,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/Collectible Heart.scene.nasset",
+        "thumbnail": "6892a0b1-90cb-b4ea-976e-86775700f181",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -1895,6 +1906,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/Danger Water Plane.scene.nasset",
+        "thumbnail": "37ba36a6-2082-2062-6cec-3a8e410a50cf",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -2213,6 +2225,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/Danger Saw.scene.nasset",
+        "thumbnail": "a6707260-4185-b3d8-6b59-2458eb6150a6",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
