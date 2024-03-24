@@ -1112,12 +1112,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "732bb934-2b07-4fbd-83ee-7f1a0163f9c3": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/M_Stomp_Sky.mtli.nasset",
-        "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
-    },
     "765959f3-f2d2-3a87-abb7-0e27619a846a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
